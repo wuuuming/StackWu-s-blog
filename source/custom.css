@@ -1,3 +1,6 @@
 .nexmoe-primary{
     background-color: rgba(0, 0, 0, 0.5);
 }
+.mdui-drawer-open{
+    background-color: rgba(0,0,0,0.5);
+}
