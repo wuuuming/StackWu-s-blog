@@ -82,7 +82,7 @@ widgets:
                 img: /css/image/avatar.jpg
                 link: localhost:4000
 
-copyTip: false # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
+copyTip: true # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
 
 slotHead: |
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
