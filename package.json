@@ -29,6 +29,6 @@
     "hexo-generator-json-content": "^4.2.3",
     "hexo-component-inferno": "^2.0.2",
     "inferno": "^7.3.3",
-    "inferno-create-element": "^7.3.3"
+    "inferno-create-element": "^8.2.3"
   }
 }
